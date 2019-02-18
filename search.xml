@@ -4,6 +4,9 @@
     <title><![CDATA[你好，Hexo]]></title>
     <url>%2F2019%2F02%2F18%2F%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-18T06:36:52.000Z</updated>
+  <updated>2019-02-18T08:51:12.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="http://yoursite.com/2019/02/18/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/"/>
     <id>http://yoursite.com/2019/02/18/你好，Hexo/</id>
     <published>2019-02-18T06:36:52.000Z</published>
-    <updated>2019-02-18T06:36:52.000Z</updated>
+    <updated>2019-02-18T08:51:12.000Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
