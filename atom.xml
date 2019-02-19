@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Juanita bolg</title>
+  <title>Juanita&#39;s bolg</title>
   
-  
+  <subtitle>简书：JuanitaLee</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
